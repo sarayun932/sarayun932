@@ -11,7 +11,7 @@ Based in South Korea 🇰🇷 · Available for full-time roles in the Netherland
 ## 🧠 About Me
 
 - 🎓 B.Sc. Food & Nutrition Science + B.B.A. Business Administration — Sookmyung Women's University (GPA 4.07/4.5)
-- 🌍 Exchange year at Hogeschool Rotterdam, Netherlands (2023–2024)
+- 🌍 Exchange year at Hogeschool Rotterdam, Netherlands (Sep 2023– July 2024)
 - 🔬 Specialising in text mining, sentiment analysis, and statistical modelling in R
 - 🌱 Actively learning Dutch (A1/A2)
 - 💡 Interest in K-Food globalisation and European consumer markets
