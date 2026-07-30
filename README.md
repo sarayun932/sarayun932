@@ -1,7 +1,8 @@
 # Hi, I'm Rayun Sa 👋
+
 ### Food & Consumer Insights · Data Analysis · Business Strategy
-I turn messy consumer data into decisions that organisations can actually act on.
-Based in South Korea 🇰🇷 · Available for full-time roles in the Netherlands 🇳🇱 from July 2026
+I turn consumer and business data into insights organisations can act on.
+Currently in the Netherlands 🇳🇱 · Available to work through June 2027
 ---
 ## 🧠 About Me
 - 🎓 B.Sc. Food & Nutrition Science + B.B.A. Business Administration — Sookmyung Women's University (GPA 4.07/4.5)
@@ -28,7 +29,8 @@ Based in South Korea 🇰🇷 · Available for full-time roles in the Netherland
 | [📊 Customer Satisfaction Analysis](https://github.com/sarayun932/yeobgi-tteokbokki-review-analysis) | Analysed 4,197 reviews from Yeobgi Tteokbokki franchise — text mining, sentiment analysis & IPA | Python, R, LDA, ABSA |
 | [🏦 VIP Customer Churn Prediction](https://github.com/sarayun932/vip-churn-prediction) | SVM-based churn prediction for 5,002 VIP bank customers — 99.8% accuracy | R, SVM, e1071 |
 | [☕ Café Marketing & Revenue Analysis](https://github.com/sarayun932/cafe-marketing-analysis) | Welch's ANOVA to test impact of marketing spend on daily revenue | R, ANOVA, rstatix |
-| [🧾 Customer Purchasing Pattern Analysis](https://github.com/sarayun932/northwind-customer-analysis) | SQL-based analysis of Northwind customer data — Pareto (80/20) hypothesis testing on purchasing behaviour | SQL, MySQL, Redash |
+| [🧾 Northwind Customer Purchasing Pattern Analysis](https://github.com/sarayun932/northwind-customer-analysis) | SQL-based analysis of Northwind customer data — Pareto (80/20) hypothesis testing on purchasing behaviour | SQL, MySQL, Redash |
+| [📊 Northwind Business Dashboard](https://github.com/sarayun932/northwind-dashboard) | Redash monitoring dashboard for Northwind — sales, orders, inventory & customer status at a glance | SQL, MySQL, Redash |
 ---
 ## 🌍 Languages
 | Language | Level |
